@@ -79,9 +79,9 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: "hw/helloworld", // The page path
+            href: "/hw/helloworld", // The page path
             label: "Hello World", // The link label
-            position: "right", // The link position
+            position: "left", // The link position
           },
           {
             href: 'https://github.com/facebook/docusaurus',
