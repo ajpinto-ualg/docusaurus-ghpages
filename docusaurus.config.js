@@ -79,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: "/hw/helloworld", // The page path
+            href: "/helloworld", // The page path
             label: "Hello World", // The link label
             position: "left", // The link position
           },
